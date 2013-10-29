@@ -1,0 +1,2 @@
+.mac-upload{position:relative;height:21px;line-height:21px;width:65px;overflow:hidden;font-weight:bold;}
+.mac-upload input{position:absolute;top:0;left:0;opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);cursor:pointer;padding:0 0 100px 200px}

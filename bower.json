@@ -1,0 +1,9 @@
+{
+  "name": "macgyver-fileupload",
+  "version": "0.1.21",
+  "main": [
+    "macgyver-fileupload.js",
+    "macgyver-fileupload.css"
+  ],
+  "dependencies": {}
+}
