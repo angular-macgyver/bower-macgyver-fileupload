@@ -1,6 +1,6 @@
 {
   "name": "macgyver-fileupload",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "main": [
     "macgyver-fileupload.js",
     "macgyver-fileupload.css"
